@@ -1,1 +1,1 @@
-Allow
+Allow develop
